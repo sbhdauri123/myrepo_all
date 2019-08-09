@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/SudiptaBhaduri/testproject/_apis/build/status/sbhdauri123.myrepo_all?branchName=master)](https://dev.azure.com/SudiptaBhaduri/testproject/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
